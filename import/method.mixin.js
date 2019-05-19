@@ -1,0 +1,3 @@
+  '`~name~`': (`~params~`) => {
+    return `~result~`
+  }

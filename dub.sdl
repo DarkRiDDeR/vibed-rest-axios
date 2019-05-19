@@ -1,0 +1,8 @@
+name "vibed-rest-axios"
+description "Generator of Rest API JS ES6 client with Axios for Vibe.d"
+authors "DarkRIDDeR"
+license "Apache-2.0"
+stringImportPaths "import"
+dependency "vibe-d:http" version="~>0.8.5"
+dependency "vibe-d:inet" version="~>0.8.5"
+dependency "vibe-d:web" version="~>0.8.5"
