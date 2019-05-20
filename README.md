@@ -1,4 +1,4 @@
-# Coinmarketcap D API
+# Vibe.d Rest Axios
 
 [![](https://img.shields.io/dub/v/vibed-rest-axios.svg?style=flat)](https://code.dlang.org/packages/vibed-rest-axios)
 [![](https://img.shields.io/github/license/DarkRiDDeR/vibed-rest-axios.svg?style=flat)](https://github.com/DarkRiDDeR/vibed-rest-axios/blob/master/LICENSE)
