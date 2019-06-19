@@ -5,6 +5,8 @@
 
 Generator of Rest API JS ES6 client with Axios for Vibe.d
 
+See also usage example https://github.com/DarkRiDDeR/DVpV
+
 ## Install
 
 ```sh
